@@ -1,0 +1,1 @@
+These are selected foundation files from the tested v1.0 release, grouped for Week 4 review. They are not a separately archived Week 4 commit or a standalone build. The complete buildable baseline is in the Week 5 and Week 6 source archive.
